@@ -1,2 +1,3 @@
 ﻿随意写些什么，仅测试使用。
 test order :git diff.
+test reset.
