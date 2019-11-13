@@ -1,2 +1,0 @@
-test Git add.
-My stupid boss still prefers SVN.
